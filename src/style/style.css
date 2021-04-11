@@ -1,0 +1,18 @@
+.btn{
+    padding: 8px 30px;
+    border-radius: 5px;
+}
+.btn-primary{
+    color: white;
+    background-color: rgba(24, 194, 24, 0.699);
+    border-color: rgba(26, 185, 26, 0.644);
+}
+
+.btn-primary:hover{
+    color: white;
+    background-color: rgba(20, 228, 20, 0.849);
+    border-color: rgba(33, 204, 33, 0.897);
+}
+.m-1{
+    margin: 10px;
+}
